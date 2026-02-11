@@ -1,9 +1,8 @@
 # WHY THIS PROJECT
-I started this project as a timepass and also to experience the painful process of a developer to compile a rom or whatever.I went through a lot of struggles like 
-exhaustion,bootlooping,debugging,finding correct .ko files and fixing broken dependencies.
+I started this project as a timepass and also to experience the painful process of compilation.I went through a lot of struggles like random crashes,reseting device, bootlooping,debugging,finding correct .ko files and fixing broken dependencies.
 
 ## Development
-Right now ,I compiled successfully for my device and it is being under rigorous tesiting process and if i feel to release after fixing the problems ,i will share with you guys.
+Right now ,I have successfully compilled the twrp recovery for my device and it is being under rigorous tesiting process and if i feel to release after fixing the problems ,i will share with you guys.
 
 # Device Tree - Lava Play Ultra 5g 
 ## Specifications
@@ -27,8 +26,8 @@ Right now ,I compiled successfully for my device and it is being under rigorous 
 ###### CANT INSTALL ZIP FILES (WORKING ON IT)
 
 ## DEVICE TREE
-IF YOU WANT TO BUILD TWRP FOR DIMENSITY 7300 PROCESSOR ,YOU CAN CLONE THIS REPO AND MAKE CHANGES CORRESPONDING TO YOUR DEVICE ,DONT COMPILE AND SIMPLY USE BECAUSE IT WILL RESULT IN BOOTLOOPING.
+#### IF YOU WANT TO BUILD TWRP FOR DIMENSITY 7300 PROCESSOR ,YOU CAN CLONE THIS REPO AND MAKE CHANGES CORRESPONDING TO YOUR DEVICE ,DONT COMPILE AND SIMPLY USE BECAUSE IT WILL RESULT IN BOOTLOOPING.
 
-# CREDITS AND THANK
+#### CREDITS AND THANK
 XDA DEVELOPER 
 
